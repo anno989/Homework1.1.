@@ -11,7 +11,7 @@
 //  Console.WriteLine ($"Число {a} нечетное");   
 // }
 
-
+//Задание 4
 Console.WriteLine ("Введите число:  ");
 int a = int.Parse(Console.ReadLine()!);
 
